@@ -1,5 +1,5 @@
 _repo: Maerten-Harpertsz-Tromp-Een-zeemanszoon-uit-de-17de-eeuw_54412
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Braakensiek, Joh. (Johan Coenraad)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6460'
     url: http://www.gutenberg.org/2009/agents/6460
     wikipedia: http://en.wikipedia.org/wiki/Johan_Braakensiek
+covers:
+- cover_type: archival
+  image_path: 54412-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Been, Johannes Hendrik
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '47860'
     url: http://www.gutenberg.org/2009/agents/47860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54412#Maerten-Harpertsz-Tromp-Een-zeemanszoon-uit-de-17de-eeuw
 gutenberg_issued: '2017-03-22'
 gutenberg_type: Text
 identifiers:
